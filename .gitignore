@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data and Models
+/ani1e/
+*.keras
+*.h5
+*.hdf5
+
+# Output
+*.png
+*.pdf
+
+# macOS
+macOS/
