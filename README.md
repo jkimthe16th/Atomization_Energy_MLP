@@ -64,3 +64,7 @@ The dataset is split 70/15/15 into train (40,223), validation (8,619), and test 
 1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
+
+2. **Run the pipeline:**
+   ```bash
+   python src/main.py
