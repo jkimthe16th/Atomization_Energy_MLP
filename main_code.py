@@ -26,7 +26,7 @@ from sklearn.preprocessing import StandardScaler
 print(f"TensorFlow {tf.__version__}")
 print(f"GPU available: {bool(tf.config.list_physical_devices('GPU'))}")
 
-WORK_DIR = Path("/home/jovyan/deep_learning_2026/Final Project/")
+WORK_DIR = "__YOUR PATH__"
 WORK_DIR.mkdir(parents=True, exist_ok=True)
 
 ANI1E_RECORD = "4680953"
