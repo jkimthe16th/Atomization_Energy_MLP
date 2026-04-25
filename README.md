@@ -67,4 +67,4 @@ The dataset is split 70/15/15 into train (40,223), validation (8,619), and test 
 
 2. **Run the pipeline:**
    ```bash
-   python src/main.py
+   python src/main_code.py
