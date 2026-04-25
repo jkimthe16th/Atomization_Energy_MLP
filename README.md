@@ -1,8 +1,8 @@
 # Multi-layer Perceptrons for Molecular Atomization Energies
 
 **Author:** D.H. (John) Kim  
-**Course:** SPC707P Deep Learning  
-**Date:** 15/04/2026
+Developed as a Final Project for SPC707P Deep Learning at Queen Mary University of London.  
+
 
 ## Abstract
 
